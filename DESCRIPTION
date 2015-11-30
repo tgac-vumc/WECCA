@@ -1,12 +1,12 @@
 Package: WECCA
 Type: Package
 Title: Weighted clustering of array CGH data
-Version: 0.40
-Date: 2012-06-15
+Version: 0.41
+Date: 2013-05-30
 Author: Wessel N. van Wieringen
-Maintainer: Wessel N. van Wieringen <wvanwie@few.vu.nl>
+Maintainer: Wessel N. van Wieringen <w.vanwieringen@vumc.nl>
 Depends: CGHcall, CGHregions, flexmix
 Description: Weighted hierarchical clustering of array CGH data using (call probabilities).
-License: GPL version 2 or newer
+License: GPL (>= 2)
 LazyLoad: yes
-Packaged: 2012-06-15 12:41:37 UTC; w.vanwieringen
+Packaged: 2013-05-30 14:20:37 UTC; wessel

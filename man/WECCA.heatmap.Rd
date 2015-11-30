@@ -11,6 +11,7 @@ WECCA.heatmap(cghdata.regioned, dendrogram, ...)
 \arguments{
   \item{cghdata.regioned}{ A \code{list}-object as returned by the function \code{regioning}. }
   \item{dendrogram}{ Determines if and how the row dendrogram should be computed and reordered. Should be a dendrogram as returned by the function \code{WECCAsc} or \code{WECCAhc}. }
+  \item{...}{...} 
 }
 \details{
   This function is merely a thin wrapper to the heatmap function. It adds a color bar with chromosome information to the heatmap. Note that hard calls are used for heatmap plotting. 
@@ -18,7 +19,7 @@ WECCA.heatmap(cghdata.regioned, dendrogram, ...)
 \value{
   See \code{heatmap}.
 }
-\author{ Wessel N. van Wieringen: \email{wvanwie@few.vu.nl} }
+\author{ Wessel N. van Wieringen: \email{w.vanwieringen@vumc.nl} }
 \seealso{ \code{heatmap}, \code{regioning}, \code{WECCAsc}, \code{WECCAhc}. }
 \examples{
 # generate object of class

@@ -19,7 +19,7 @@ impScores.hc(cghdata.regioned, dendrogram, nclusters)
   A \code{matrix} whose first five columns contain annotation information and the sixth the region's importance score.
 }
 \references{ Insert ref to article where importance scores are calculated. }
-\author{ Wessel N. van Wieringen: \email{wvanwie@few.vu.nl} }
+\author{ Wessel N. van Wieringen: \email{w.vanwieringen@vumc.nl} }
 \seealso{ \code{KLdiv}, \code{regioning}, \code{WECCAhc} }
 \examples{
 # generate object of class

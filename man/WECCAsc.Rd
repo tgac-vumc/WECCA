@@ -29,7 +29,7 @@ Van Wieringen, W.N., Van de Wiel, M.A., Ylstra, B. (2008), "Weighted clustering 
 
 Smeets, S.J., Brakenhoff, R.H., Ylstra, B., Van Wieringen, W.N., Van de Wiel, M.A., Leemans, C.R., Braakhuis, B.J.M. (2009), "Genetic classification of oral and oropharyngeal carcinomas identifies subgroups with a different prognosis", \emph{Cellular Oncology}, 39, 291--300.
 }
-\author{ Wessel N. van Wieringen: \email{wvanwie@few.vu.nl} }
+\author{ Wessel N. van Wieringen: \email{w.vanwieringen@vumc.nl} }
 \seealso{ \code{dist}, \code{hclust}, \code{KLdiv}, \code{regioning} }
 \examples{
 # generate object of cghCall-class

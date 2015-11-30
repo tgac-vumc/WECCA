@@ -17,7 +17,7 @@ sample.cluster.table(cghdata.regioned, dendrogram, nclusters)
 \value{
   A \code{data.frame} with the first two columns containing the sample number and name, and the third column the cluster information.
 }
-\author{ Wessel N. van Wieringen: \email{wvanwie@few.vu.nl} }
+\author{ Wessel N. van Wieringen: \email{w.vanwieringen@vumc.nl} }
 \seealso{ \code{\link{cutree}} }
 \examples{
 # generate object of class

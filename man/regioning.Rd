@@ -31,7 +31,7 @@ Van de Wiel, M.A., Van Wieringen, W.N. (2007), "CGHregions: dimension reduction 
 
 Van Wieringen, W.N., Van de Wiel, M.A., Ylstra, B. (2007), "Normalized, segmented or called aCGH data?", \emph{Cancer Informatics}, 3, 331-337
 }
-\author{ Wessel N. van Wieringen: \email{wvanwie@few.vu.nl} }
+\author{ Wessel N. van Wieringen: \email{w.vanwieringen@vumc.nl} }
 \section{Warning }{
   The current version of CGHregions is designed for hard calls only. This is likely to change in the near future, making this function obsolete.
 }

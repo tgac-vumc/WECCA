@@ -27,7 +27,7 @@ WECCAhc(cghdata.regioned, dist.measure = "agree", linkage = "ward", weight.type 
 \references{ 
 Van Wieringen, W.N., Van de Wiel, M.A., Ylstra, B. (2008), "Weighted clustering of called aCGH data", \emph{Biostatistics}, 9(3), 484-500.
 }
-\author{ Wessel N. van Wieringen: \email{wvanwie@few.vu.nl} }
+\author{ Wessel N. van Wieringen: \email{w.vanwieringen@vumc.nl} }
 \seealso{ \code{dist}, \code{hclust}, \code{KLdiv}, \code{regioning} }
 \examples{
 # generate object of cghCall-class

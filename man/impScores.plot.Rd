@@ -14,7 +14,7 @@ impScores.plot(impScores.table, yaxis.max = 10, lastchr = 22, color = "red")
   \item{lastchr}{ Integer corresponding to chromosome number. This is the last chromosome whose importance scores are included in the plot.}
   \item{color}{ Color of line connecting importance scores. }
 }
-\author{ Wessel N. van Wieringen: \email{wvanwie@few.vu.nl} }
+\author{ Wessel N. van Wieringen: \email{w.vanwieringen@vumc.nl} }
 \examples{
 # generate object of class
 data(WiltingCalled)
